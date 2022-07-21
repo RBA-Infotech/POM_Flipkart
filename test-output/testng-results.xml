@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-08T15:24:10 IST" name="Default suite" finished-at="2022-07-08T15:24:32 IST" duration-ms="22251">
+    <groups>
+    </groups>
+    <test started-at="2022-07-08T15:24:10 IST" name="Default test" finished-at="2022-07-08T15:24:32 IST" duration-ms="22251">
+      <class name="com.flipkart.testscenarios.PlaceOrder">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.flipkart.testscenarios.PlaceOrder@485966cc]" started-at="2022-07-08T15:24:10 IST" name="setUp" finished-at="2022-07-08T15:24:21 IST" duration-ms="10868" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="addToCartTest()[pri:0, instance:com.flipkart.testscenarios.PlaceOrder@485966cc]" started-at="2022-07-08T15:24:21 IST" name="addToCartTest" finished-at="2022-07-08T15:24:21 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCartTest -->
+        <test-method signature="loginTest()[pri:0, instance:com.flipkart.testscenarios.PlaceOrder@485966cc]" started-at="2022-07-08T15:24:21 IST" name="loginTest" finished-at="2022-07-08T15:24:32 IST" duration-ms="11304" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method signature="logoutTest()[pri:0, instance:com.flipkart.testscenarios.PlaceOrder@485966cc]" started-at="2022-07-08T15:24:32 IST" name="logoutTest" finished-at="2022-07-08T15:24:32 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutTest -->
+        <test-method signature="makePayment()[pri:0, instance:com.flipkart.testscenarios.PlaceOrder@485966cc]" started-at="2022-07-08T15:24:32 IST" name="makePayment" finished-at="2022-07-08T15:24:32 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- makePayment -->
+        <test-method signature="placeOrderTest()[pri:0, instance:com.flipkart.testscenarios.PlaceOrder@485966cc]" started-at="2022-07-08T15:24:32 IST" name="placeOrderTest" finished-at="2022-07-08T15:24:32 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- placeOrderTest -->
+        <test-method signature="seachProductTest()[pri:0, instance:com.flipkart.testscenarios.PlaceOrder@485966cc]" started-at="2022-07-08T15:24:32 IST" name="seachProductTest" finished-at="2022-07-08T15:24:32 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- seachProductTest -->
+        <test-method signature="selectProductTest()[pri:0, instance:com.flipkart.testscenarios.PlaceOrder@485966cc]" started-at="2022-07-08T15:24:32 IST" name="selectProductTest" finished-at="2022-07-08T15:24:32 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectProductTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.flipkart.testscenarios.PlaceOrder@485966cc]" started-at="2022-07-08T15:24:32 IST" name="tearDown" finished-at="2022-07-08T15:24:32 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.flipkart.testscenarios.PlaceOrder -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
